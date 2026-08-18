@@ -6,7 +6,7 @@ Most inicializáljuk az adatbázis-klasztert, majd elindítjuk a PostgreSQL szol
 
 ---
 
-## 1. Adatbázis-klaszter inicializálása
+## 1. Adatbázis-klaszter inicializálása 
 
 Rocky Linux / RHEL rendszeren:
 
